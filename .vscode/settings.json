@@ -3,6 +3,9 @@
         "*.embeddedhtml": "html",
         "ostream": "cpp",
         "*.tcc": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "random": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp"
     }
 }
