@@ -9,3 +9,4 @@ multiply existing number by 10 and add this number
 so is there is 0 then multiply gives 0 then add 4 = 4
 if 4 is there multiply gives 40 not add 4 = 44
 so adding digit is by multiply by 10 and add the last digit.
+
